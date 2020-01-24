@@ -265,7 +265,7 @@ describe('Instances of Student', () => {
   })
 })
 
-describe('Instance of ProjectManager', () => {
+xdescribe('Instance of ProjectManager', () => {
   let pm
   beforeEach(() => {
     pm = new results.ProjectManager(projectManagerAttr)
